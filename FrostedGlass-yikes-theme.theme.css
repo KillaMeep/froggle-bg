@@ -32,7 +32,7 @@
   --popout-modal-position: center; /* Position of popout/modal image | DEAFULT: center | OPTIONS: top, right, bottom, left, center */
 
   /* Home image variables */
-  --home-button-image: url('https://github.com/KillaMeep/froggle-bg/blob/main/content/home-icon.gif?raw=true'); /* Home button image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --home-button-image: url('https://github.com/KillaMeep/froggle-bg/blob/main/content/home-icon-2.gif?raw=true'); /* Home button image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --home-button-size: cover; /* Size of the home button image | DEFAUT: cover */
   --home-button-position: center; /* Position of home button image | DEAFULT: center */
 
