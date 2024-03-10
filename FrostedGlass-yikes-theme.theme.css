@@ -21,12 +21,12 @@
   /* Background image variables */
   --background-image: url('https://github.com/KillaMeep/froggle-bg/blob/main/content/background-2.gif?raw=true'); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   
-  --background-image-blur: 4px; /* Blur intensity of --background-image | Must end in px | DEFAULT: 5px */
+  --background-image-blur: 7px; /* Blur intensity of --background-image | Must end in px | DEFAULT: 5px */
   --background-image-size: cover; /* Size of the background image | DEFAUT: cover | OPTIONS: cover, contain */
   --background-image-position: center; /* Position of background image | DEAFULT: center | OPTIONS: top, right, bottom, left, center */
 
   /* Popout & Modal variables */
-  --popout-modal-image: url("https://github.com/KillaMeep/froggle-bg/blob/main/content/trans-grad-v2.png?raw=true"); /* Background image for popouts and modals | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --popout-modal-image: url("https://github.com/KillaMeep/froggle-bg/blob/main/content/green_modal_gradient_v2.png?raw=true"); /* Background image for popouts and modals | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --popout-modal-blur: 0px; /* Blur intensity of --popout-modal-image | Must end in px | DEFAULT: 5px */
   --popout-modal-size: cover; /* Size of the popout/modal image | DEFAUT: cover | OPTIONS: cover, contain */
   --popout-modal-position: center; /* Position of popout/modal image | DEAFULT: center | OPTIONS: top, right, bottom, left, center */
